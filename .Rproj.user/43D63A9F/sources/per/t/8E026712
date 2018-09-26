@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1537979341870.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3126517035",
+    "id" : "8E026712",
+    "lastKnownWriteTime" : 1537977333,
+    "last_content_update" : 1537977333,
+    "path" : "D:/GIT_HUB_REPOSITORIOS/Clasificacion_vecino_mas_cercano_lotes/SCRIPTS/nearest_neighbor_FUN.R",
+    "project_path" : "SCRIPTS/nearest_neighbor_FUN.R",
+    "properties" : {
+        "cursorPosition" : "9,85",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
